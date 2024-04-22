@@ -1,0 +1,14 @@
+C:\Users\Alina.de-monti\source\repos\SmoothieMaker\SmoothieMaker\bin\Debug\net6.0\SmoothieMaker.exe
+C:\Users\Alina.de-monti\source\repos\SmoothieMaker\SmoothieMaker\bin\Debug\net6.0\SmoothieMaker.deps.json
+C:\Users\Alina.de-monti\source\repos\SmoothieMaker\SmoothieMaker\bin\Debug\net6.0\SmoothieMaker.runtimeconfig.json
+C:\Users\Alina.de-monti\source\repos\SmoothieMaker\SmoothieMaker\bin\Debug\net6.0\SmoothieMaker.dll
+C:\Users\Alina.de-monti\source\repos\SmoothieMaker\SmoothieMaker\bin\Debug\net6.0\SmoothieMaker.pdb
+C:\Users\Alina.de-monti\source\repos\SmoothieMaker\SmoothieMaker\obj\Debug\net6.0\SmoothieMaker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alina.de-monti\source\repos\SmoothieMaker\SmoothieMaker\obj\Debug\net6.0\SmoothieMaker.AssemblyInfoInputs.cache
+C:\Users\Alina.de-monti\source\repos\SmoothieMaker\SmoothieMaker\obj\Debug\net6.0\SmoothieMaker.AssemblyInfo.cs
+C:\Users\Alina.de-monti\source\repos\SmoothieMaker\SmoothieMaker\obj\Debug\net6.0\SmoothieMaker.csproj.CoreCompileInputs.cache
+C:\Users\Alina.de-monti\source\repos\SmoothieMaker\SmoothieMaker\obj\Debug\net6.0\SmoothieMaker.dll
+C:\Users\Alina.de-monti\source\repos\SmoothieMaker\SmoothieMaker\obj\Debug\net6.0\refint\SmoothieMaker.dll
+C:\Users\Alina.de-monti\source\repos\SmoothieMaker\SmoothieMaker\obj\Debug\net6.0\SmoothieMaker.pdb
+C:\Users\Alina.de-monti\source\repos\SmoothieMaker\SmoothieMaker\obj\Debug\net6.0\SmoothieMaker.genruntimeconfig.cache
+C:\Users\Alina.de-monti\source\repos\SmoothieMaker\SmoothieMaker\obj\Debug\net6.0\ref\SmoothieMaker.dll
